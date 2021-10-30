@@ -4,3 +4,5 @@ Hello! Welcome to this repository! In here, I have all of my small projects (usu
 
 * [Dogs and pandas](Dogs_and_pandas/Dogs_and_pandas.md)
 * A new project coming soon...
+
+![image](https://user-images.githubusercontent.com/90162597/139560670-25027410-88f4-423c-ab0c-9bd83fbcb07c.png)
