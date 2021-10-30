@@ -26,7 +26,7 @@ A quick Google search yielded similar results:
 
 So back to the original question - why did we think that SF has a disproportionate dog population? If anything, given the City's political lean and cost of living, SF would have a much smaller than average proportion of dogs. Perhaps it was our proximity to Golden Gate Park or the beautiful fall weather that drew out the dog walkers. Perhaps something else.
 
-Nonetheless, my analysis (as every analysis does) leads to more questions than answers. What personality, demographic, and financial traits make a dog owner? Why does it seem that more conservatives perfer to own dogs than liberals? While you all sit tight, let me give my psychology major friend a quick call.
+Nonetheless, my analysis (as every analysis does) leads to more questions than answers. What personality, demographic, and financial traits make a dog owner? Why does it seem that more conservatives prefer to own dogs than liberals? While you all sit tight, let me give my psychology major friend a quick call.
 
 
 
