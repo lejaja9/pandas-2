@@ -1,6 +1,6 @@
 ## "Pandas Squared"
 
-Hello! Welcome to this repository! In here, I showcase small projects (usually data analysis) in which I work with the package pandas and yes, I do indeed eat Panda Express when working on this repo. Linked below is information for the projects. *Bon Appetit* !
+Hello! Welcome to this repository! In here, I showcase small projects (usually data analysis) in which I work with the package pandas and yes, I do indeed eat Panda Express when working on this repo. Linked below is information for the projects. *Bon Appetit*!
 
 * [Dogs and pandas](Dogs_and_pandas/Dogs_and_pandas.md)
 * A new project coming soon...
