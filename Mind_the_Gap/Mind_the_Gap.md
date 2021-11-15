@@ -41,9 +41,9 @@ As we can see in the scatterplots below, there is little to no correlation betwe
 
 ![](2016.png)
 
-The first F1 season that I followed closely, this was a thrilling season to the finish. Aside from a few races in the second half of the season, Rosberg led for a majority of the season in an intense championship battle against Hamilton. As we can see in Rosberg's chart, he maintained a consistent qualifying performance throughout the season. Even during his dip in the middle of the season in which Rosberg briefly relinquished the lead, he didn't have any qualifying times out of the ordinary. Hamilton did as well with the exception of the European Grand Prix, a session in which he crashed out and ended without setting a real fastest lap, which I also want to bring to attention as to why his performance looks very consistent with the exception of that one outlier. Remember that qualiftying gaps are measured usualy by thenths of a second, so for one race in which Hamilton qualified nearly 20 seconds behind pole, it threw the scaling way off. Note that Hamilton had a few GP's in which he didn't qualify due to engine issues.
+The first F1 season that I followed closely, this was a thrilling season to the finish. Aside from a few races in the second half of the season, Rosberg led for the majority of the season in an intense championship battle against Hamilton. As we can see in Rosberg's chart, he maintained a consistent qualifying performance throughout the season. When he briefly relinquished the lead to Hamilton, Rosberg didn't have any qualifying times out of the ordinary. Hamilton qualified consistently with the exception of the European Grand Prix, a session in which he crashed out and ended without setting a real fastest lap. I want to bring to attention that this may be the case as to why his qualifying performance looks very consistent. Remember that qualiftying gaps are measured usualy by tenths of a second, so for the one race in which Hamilton qualified nearly 20 seconds behind pole, it threw the scaling way off. (Note that Hamilton had a few GP's in which he didn't set a qualifying time due to engine issues)
 
-![](2016_Ros_HAM.png)
+![](2016_ROS_HAM.png)
 
 As we see once again, there is no real correlation between gap to championship lead and qualifying performance.
 
@@ -57,7 +57,7 @@ I would expect the drivers to perform that much better and extract extra time fr
 * Strategy is determined primarily by the team, not the driver
 
 
-I then made a scatterplot of all the qualifying times and gap to P1 (aside from Hamilton's qualifying mishap):
+I then made a scatterplot of all the qualifying times and gap to P1 (aside from Hamilton's 2016 European GP qualifying mishap):
 
 ![](Agg_quali.png)
 
