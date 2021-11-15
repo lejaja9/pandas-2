@@ -57,4 +57,12 @@ I would expect the drivers to perform that much better and extract extra time fr
 * Strategy is determined primarily by the team, not the driver
 
 
-I have to say, I am a bit disappointed that my results are not robust. Nonetheless, I had a great time reliving previous title battles and I am very excited for the Brazilian GP tomorrow morning! Go Max Verstappen!
+I then made a scatterplot of all the qualifying times and gap to P1 (aside from Hamilton's qualifying mishap):
+
+![](Agg_quali.png)
+
+Again, no clear correlation. I will also say that I am so sad that I forgot to save my code for this last part, but hey, at least I saved this plot!
+
+I am a bit disappointed that my results are not robust. Nonetheless, I had a great time reliving previous title battles and I am very excited for the Brazilian GP tomorrow morning! Go Max Verstappen!
+
+Update: That was a thrilling GP. Onto next week!
